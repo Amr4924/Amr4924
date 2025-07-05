@@ -35,10 +35,5 @@
 
 ## 📫 Connect With Me
 
-[![LinkedIn](www.linkedin.com/in/amr-sa3dwy-53a51a343)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-
----
-
-> 📝 *"I believe in building while learning, and learning while building."*
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amr-sa3dwy-53a51a343)  
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&log)]()
