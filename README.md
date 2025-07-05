@@ -35,5 +35,11 @@
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amr-sa3dwy-53a51a343)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&log)]()
+<p align="center">
+  <a href="https://www.linkedin.com/in/amr-sa3dwy-53a51a343">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:amrsaad0016a@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
