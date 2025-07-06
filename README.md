@@ -10,7 +10,7 @@
 
 - 🎓 I'm a Computer Science student at **South Valley National University**.
 - 💻 Currently learning **C++**, and next up: **Pointers**.
-- 📦 Working on: [Age Calculator in C++](https://github.com/Amr4924/age-calculator)
+- 📦 Working on: [Age Calculator in C++](https://github.com/Amr4924/age-calculator) [Simple-Cpp-Operations](https://github.com/Amr4924/Simple-Cpp-Operations-Project)
 - 📈 Exploring **Product Management** in parallel with programming.
 - 🤝 Always open for collaborations in open-source projects.
 
