@@ -6,14 +6,14 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-🎓 I'm a Computer Science student at **South Valley National University**.  
-🧠 Passionate about programming, logical problem-solving, and product thinking.  
-💻 Currently diving deeper into **C++**, **Python**, and real-world tech projects.  
-🎖️ Certified in [Python Programming Basics (ITI)](https://github.com/Amr4924/My-Certifications/blob/main/Course_Certificate_En.pdf) via Mahara-Tech.  
-🚀 Developed: [TermTracker GPA Calculator](https://github.com/Amr4924/TermTracker), [Age Calculator](https://github.com/Amr4924/age-calculator), [Simple C++ Projects](https://github.com/Amr4924/Simple-Cpp-Operations-Project).  
-🤝 Always open to collaboration and learning with the tech community.  
+- 🎓 I'm a Computer Science student at **South Valley National University**.
+- 💻 Currently learning **C++** and **Python**.
+- 🌟 Recently earned a certificate in **Python Basics** from **Information Technology Institute (ITI)** via Mahara-Tech. [View Certificate](https://github.com/Amr4924/My-Certifications/blob/main/Course_Certificate_En.pdf)
+- 📆 Working on projects like: [TermTracker GPA System](https://github.com/Amr4924/TermTracker) | [Age Calculator](https://github.com/Amr4924/age-calculator) | [Simple-Cpp-Operations](https://github.com/Amr4924/Simple-Cpp-Operations-Project)
+- 📊 Exploring **Product Management** in parallel with programming.
+- 🤝 Always open for collaborations in open-source projects.
 
 ---
 
@@ -26,16 +26,7 @@
 
 ---
 
-## 🏆 Latest Achievements
-
-- ✅ Completed **Python Programming Basics** – ITI via Mahara-Tech.  
-- 🧮 Built a GPA calculator tool using C++: [TermTracker](https://github.com/Amr4924/TermTracker).  
-- 📘 Currently learning data structures, pointers, and OOP in C++.  
-- 📂 Managing and showcasing certifications in [My-Certifications](https://github.com/Amr4924/My-Certifications).  
-
----
-
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Amr4924&show_icons=true&theme=tokyonight" width="45%" />
@@ -44,17 +35,21 @@
 
 ---
 
-## 📫 Connect With Me
+## 📢 Latest Achievements
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/amr-sa3dwy-53a51a343">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:amrsaad0016a@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
+- 🎓 Completed **Python Programming Basics** course from ITI.  
+- ✅ Built a **GPA calculator tool** using C++: [TermTracker](https://github.com/Amr4924/TermTracker)
+- 📖 Studying data structures, pointers, and OOP in C++.
 
 ---
 
-> 📌 *"Code with purpose, learn with passion."*
+## 📢 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amr-sa3dwy-53a51a343">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:amrsaad0016a@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
