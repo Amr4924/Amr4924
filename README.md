@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/Amr4924/Amr4924/assets/your-banner-id/banner.png" alt="Amr SA3DWY Banner" width="100%"/>
-</p>
-
 <h1 align="center">Hi there 👋, I'm Amr (SA3DWY)</h1>
 
 <p align="center">
@@ -13,12 +8,12 @@
 
 ## 👨‍💻 About Me
 
-🎓 Computer Science student at **South Valley National University**  
-🧠 Passionate about programming, logic building, and product thinking  
-💻 Currently diving deeper into **C++**, **Python**, and tech projects  
-🎖️ Earned: [Python Programming Basics Certificate (ITI)](https://github.com/Amr4924/My-Certifications/blob/main/Course_Certificate_En.pdf)  
-🚀 Building: [TermTracker GPA System](https://github.com/Amr4924/TermTracker), [Age Calculator](https://github.com/Amr4924/age-calculator), [Simple C++ Projects](https://github.com/Amr4924/Simple-Cpp-Operations-Project)  
-🤝 Open to collaboration and learning with the dev community  
+🎓 I'm a Computer Science student at **South Valley National University**.  
+🧠 Passionate about programming, logical problem-solving, and product thinking.  
+💻 Currently diving deeper into **C++**, **Python**, and real-world tech projects.  
+🎖️ Certified in [Python Programming Basics (ITI)](https://github.com/Amr4924/My-Certifications/blob/main/Course_Certificate_En.pdf) via Mahara-Tech.  
+🚀 Developed: [TermTracker GPA Calculator](https://github.com/Amr4924/TermTracker), [Age Calculator](https://github.com/Amr4924/age-calculator), [Simple C++ Projects](https://github.com/Amr4924/Simple-Cpp-Operations-Project).  
+🤝 Always open to collaboration and learning with the tech community.  
 
 ---
 
@@ -33,10 +28,10 @@
 
 ## 🏆 Latest Achievements
 
-- 🎓 Completed **Python Programming Basics** – ITI via Mahara-Tech  
-- 📊 Built a **GPA calculator tool** using C++: [TermTracker](https://github.com/Amr4924/TermTracker)  
-- 📘 Exploring data structures, pointers, and OOP in C++  
-- 🛠️ Uploading and organizing certifications: [My-Certifications Repo](https://github.com/Amr4924/My-Certifications)
+- ✅ Completed **Python Programming Basics** – ITI via Mahara-Tech.  
+- 🧮 Built a GPA calculator tool using C++: [TermTracker](https://github.com/Amr4924/TermTracker).  
+- 📘 Currently learning data structures, pointers, and OOP in C++.  
+- 📂 Managing and showcasing certifications in [My-Certifications](https://github.com/Amr4924/My-Certifications).  
 
 ---
 
@@ -62,4 +57,4 @@
 
 ---
 
-> 📌 *“Code with purpose, learn with passion.”*
+> 📌 *"Code with purpose, learn with passion."*
