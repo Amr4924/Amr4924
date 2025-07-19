@@ -1,3 +1,8 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/Amr4924/Amr4924/assets/your-banner-id/banner.png" alt="Amr SA3DWY Banner" width="100%"/>
+</p>
+
 <h1 align="center">Hi there 👋, I'm Amr (SA3DWY)</h1>
 
 <p align="center">
@@ -6,14 +11,14 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 I'm a Computer Science student at **South Valley National University**.
-- 💻 Currently learning **C++** and **Python**.
-- 🌟 Recently earned a certificate in **Python Basics** from **Information Technology Institute (ITI)** via Mahara-Tech. [View Certificate](https://github.com/Amr4924/My-Certifications/blob/main/Course_Certificate_En.pdf)
-- 📆 Working on projects like: [TermTracker GPA System](https://github.com/Amr4924/TermTracker) | [Age Calculator](https://github.com/Amr4924/age-calculator) | [Simple-Cpp-Operations](https://github.com/Amr4924/Simple-Cpp-Operations-Project)
-- 📊 Exploring **Product Management** in parallel with programming.
-- 🤝 Always open for collaborations in open-source projects.
+🎓 Computer Science student at **South Valley National University**  
+🧠 Passionate about programming, logic building, and product thinking  
+💻 Currently diving deeper into **C++**, **Python**, and tech projects  
+🎖️ Earned: [Python Programming Basics Certificate (ITI)](https://github.com/Amr4924/My-Certifications/blob/main/Course_Certificate_En.pdf)  
+🚀 Building: [TermTracker GPA System](https://github.com/Amr4924/TermTracker), [Age Calculator](https://github.com/Amr4924/age-calculator), [Simple C++ Projects](https://github.com/Amr4924/Simple-Cpp-Operations-Project)  
+🤝 Open to collaboration and learning with the dev community  
 
 ---
 
@@ -26,7 +31,16 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Latest Achievements
+
+- 🎓 Completed **Python Programming Basics** – ITI via Mahara-Tech  
+- 📊 Built a **GPA calculator tool** using C++: [TermTracker](https://github.com/Amr4924/TermTracker)  
+- 📘 Exploring data structures, pointers, and OOP in C++  
+- 🛠️ Uploading and organizing certifications: [My-Certifications Repo](https://github.com/Amr4924/My-Certifications)
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Amr4924&show_icons=true&theme=tokyonight" width="45%" />
@@ -35,21 +49,17 @@
 
 ---
 
-## 📢 Latest Achievements
-
-- 🎓 Completed **Python Programming Basics** course from ITI.  
-- ✅ Built a **GPA calculator tool** using C++: [TermTracker](https://github.com/Amr4924/TermTracker)
-- 📖 Studying data structures, pointers, and OOP in C++.
-
----
-
-## 📢 Connect With Me
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amr-sa3dwy-53a51a343">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="mailto:amrsaad0016a@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
+
+---
+
+> 📌 *“Code with purpose, learn with passion.”*
