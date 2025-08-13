@@ -30,7 +30,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Amr4924&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr4924&layout=compact&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr4924&layout=compact&theme=tokyonight&langs_count=8&hide=html,css,scss" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amr4924&theme=tokyonight" width="90%" />
 </p>
 
 ---
