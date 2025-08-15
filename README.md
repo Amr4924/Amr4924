@@ -17,6 +17,20 @@
 
 ---
 
+## 🏅 Certifications
+
+<p align="center">
+  <img src="https://github.com/Amr4924/My-Certifications/blob/main/Python_Programming_Basics.png" alt="Python Programming Basics Certificate" width="400" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Amr4924/My-Certifications/blob/main/Course_Certificate_En.pdf">
+    📄 View Certificate (PDF)
+  </a>
+</p>
+
+---
+
 ## 🚀 Tech Stack
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
