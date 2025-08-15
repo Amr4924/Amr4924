@@ -53,7 +53,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="mailto:amrsaad0016a@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="[https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white](https://github.com/Amr4924/My-Certifications/blob/main/Python_Programming_Basics.png)" alt="Gmail">
   </a>
 </p>
 
