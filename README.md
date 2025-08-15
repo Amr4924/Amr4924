@@ -57,3 +57,11 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
+
+---
+
+## 🎖 Badges & Achievements
+
+<a href="https://github.com/Amr4924/My-Certifications/blob/main/Course_Certificate_En.pdf">
+  <img src="https://github.com/Amr4924/My-Certifications/blob/main/Python_Programming_Basics.png" alt="Python Basics Certificate" width="150" align="left" />
+</a>
