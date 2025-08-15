@@ -19,15 +19,8 @@
 
 ## 🏅 Certifications
 
-<p align="center">
-  <img src="https://github.com/Amr4924/My-Certifications/blob/main/Python_Programming_Basics.png" alt="Python Programming Basics Certificate" width="400" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Amr4924/My-Certifications/blob/main/Course_Certificate_En.pdf">
-    📄 View Certificate (PDF)
-  </a>
-</p>
+**Python Programming Basics – ITI (via Mahara-Tech)**  
+[![Python Certificate](https://github.com/Amr4924/My-Certifications/blob/main/Python_Programming_Basics.png)](https://github.com/Amr4924/My-Certifications/blob/main/Course_Certificate_En.pdf)
 
 ---
 
