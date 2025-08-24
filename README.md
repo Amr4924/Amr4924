@@ -11,7 +11,7 @@
 - 🎓 I'm a Computer Science student at **South Valley National University**.
 - 💻 Currently learning **C++** and **Python**.
 - 🌟 Recently earned a certificate in **Python Basics** from **Information Technology Institute (ITI)** via Mahara-Tech. [View Certificate](https://github.com/Amr4924/My-Certifications/blob/main/Course_Certificate_En.pdf)
-- 📆 Working on projects like: [TermTracker GPA System](https://github.com/Amr4924/TermTracker) | [Age Calculator](https://github.com/Amr4924/age-calculator) | [Simple-Cpp-Operations](https://github.com/Amr4924/Simple-Cpp-Operations-Project)
+- 📆 Working on projects like: [TermTracker GPA System](https://github.com/Amr4924/TermTracker) | [Age Calculator](https://github.com/Amr4924/age-calculator) | [Simple-Cpp-Operations](https://github.com/Amr4924/Simple-Cpp-Operations-Project) | [WordWizard](https://github.com/Amr4924/WordWizard#) | [SmartATM](https://github.com/Amr4924/SmartATM) | [GenFinder](https://github.com/Amr4924/GenFinder)
 - 📊 Exploring **Product Management** in parallel with programming.
 - 🤝 Always open for collaborations in open-source projects.
 
