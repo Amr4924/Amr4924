@@ -65,3 +65,7 @@
 <a href="https://github.com/Amr4924/My-Certifications/blob/main/Course_Certificate_En.pdf">
   <img src="https://github.com/Amr4924/My-Certifications/blob/main/Python_Programming_Basics.png" alt="Python Basics Certificate" width="150" align="left" />
 </a>
+
+<a href="https://github.com/Amr4924/My-Certifications/blob/main/Python_Programming_Basics.png">
+  <img src="https://github.com/Amr4924/My-Certifications/blob/main/Python_Programming_Basics.png" alt="Python Basics Badge" width="150" align="left" />
+</a>
