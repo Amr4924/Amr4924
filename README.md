@@ -11,7 +11,7 @@
 - 🎓 I'm a Computer Science student at **South Valley National University**.
 - 💻 Currently learning **C++** and **Python**.
 - 🌟 Recently earned a certificate in **Python Basics** from **Information Technology Institute (ITI)** via Mahara-Tech. [View Certificate](https://github.com/Amr4924/My-Certifications/blob/main/Course_Certificate_En.pdf)
-- 📆 Working on projects like: [TermTracker GPA System](https://github.com/Amr4924/TermTracker) | [Age Calculator](https://github.com/Amr4924/age-calculator) | [Simple-Cpp-Operations](https://github.com/Amr4924/Simple-Cpp-Operations-Project) | [WordWizard](https://github.com/Amr4924/WordWizard#) | [SmartATM](https://github.com/Amr4924/SmartATM) | [GenFinder](https://github.com/Amr4924/GenFinder)
+- 📆 Working on projects like: [TermTracker GPA System](https://github.com/Amr4924/TermTracker) | [Age Calculator](https://github.com/Amr4924/age-calculator) | [Simple-Cpp-Operations](https://github.com/Amr4924/Simple-Cpp-Operations-Project)
 - 📊 Exploring **Product Management** in parallel with programming.
 - 🤝 Always open for collaborations in open-source projects.
 
@@ -57,15 +57,3 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
-
----
-
-## 🎖 Badges & Achievements
-
-<a href="https://github.com/Amr4924/My-Certifications/blob/main/Course_Certificate_En.pdf">
-  <img src="https://github.com/Amr4924/My-Certifications/blob/main/Python_Programming_Basics.png" alt="Python Basics Certificate" width="150" align="left" />
-</a>
-
-<a href="https://github.com/Amr4924/My-Certifications/blob/main/Course_Certificate_En%20(1)_page-0001.jpg">
-  <img src="https://github.com/Amr4924/My-Certifications/blob/main/Computer_Network_Fundamentals.png" alt="Python Basics Badge" width="150" align="left" />
-</a>
