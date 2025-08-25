@@ -29,12 +29,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amr4924&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr4924&layout=compact&theme=tokyonight&langs_count=8&hide=html,css,scss" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amr4924&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr4924&layout=compact&theme=tokyonight&langs_count=8&hide=html,css,scss&hide_border=true" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amr4924&theme=tokyonight" width="90%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amr4924&theme=tokyonight&hide_border=true" width="90%" />
 </p>
 
 ---
@@ -67,5 +67,5 @@
 </a>
 
 <a href="https://github.com/Amr4924/My-Certifications/blob/main/Course_Certificate_En%20(1)_page-0001.jpg">
-  <img src="https://github.com/Amr4924/My-Certifications/blob/main/Computer_Network_Fundamentals.png" alt="Python Basics Badge" width="150" align="left" />
+  <img src="https://github.com/Amr4924/My-Certifications/blob/main/Computer_Network_Fundamentals.png" alt="Computer Network Certificate" width="150" align="left" />
 </a>
