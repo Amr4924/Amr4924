@@ -48,7 +48,7 @@
 
 ---
 
-## 📢 Connect With Me
+## 🌐 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amr-sa3dwy-53a51a343">
