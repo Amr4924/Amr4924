@@ -37,12 +37,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amr4924&theme=tokyonight&hide_border=true" width="90%" />
 </p>
 
----
-## 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
+---
 
 ## 📢 Latest Achievements
 
