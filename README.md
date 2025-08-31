@@ -48,14 +48,17 @@
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Let's Connect  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amr-sa3dwy-53a51a343">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/amr-sa3dwy-53a51a343" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
   </a>
-  <a href="mailto:amrsaad0016a@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" alt="Gmail">
+  <a href="mailto:amrsaad0016a@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/Amr4924" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
   </a>
 </p>
 
