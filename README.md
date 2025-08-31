@@ -48,14 +48,6 @@
 
 ---
 
-## 📢 Latest Achievements
-
-- 🎓 Completed **Python Programming Basics** course from ITI.  
-- ✅ Built a **GPA calculator tool** using C++: [TermTracker](https://github.com/Amr4924/TermTracker)
-- 📖 Studying data structures, pointers, and OOP in C++.
-
----
-
 ## 📢 Connect With Me
 
 <p align="center">
