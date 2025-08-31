@@ -1,6 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Amr (SA3DWY)</h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Amr4924&style=flat&color=4010B0" alt="Profile views" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Learning+C%2B%2B+%26+Python;Exploring+Product+Management;Open+Source+Enthusiast+%F0%9F%91%8D" alt="Typing SVG" />
 </p>
 
