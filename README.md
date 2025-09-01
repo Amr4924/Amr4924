@@ -50,6 +50,8 @@
 
 ## 🌐 Let's Connect  
 
+## 🌐 Let's Connect  
+
 <p align="center">
   <a href="https://www.linkedin.com/in/amr-sa3dwy-53a51a343" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
@@ -61,9 +63,10 @@
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
   </a>
   <a href="https://codeforces.com/profile/Sa3dwy" target="_blank">
-    <img src="https://skillicons.dev/icons?i=codeforces" height="40" alt="Codeforces"/>
+    <img src="./fff04e72-a5f9-4325-98dc-075d37c0df3c.png" height="40" alt="Codeforces"/>
   </a>
 </p>
+
 
 ---
 
