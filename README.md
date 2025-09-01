@@ -61,9 +61,8 @@
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
   </a>
  <a href="https://codeforces.com/profile/Sa3dwy" target="_blank">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3521522-2944989.png" height="40" alt="Codeforces"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3521352-2944796.png" height="40" alt="Codeforces"/>
 </a>
-
 </p>
 
 
