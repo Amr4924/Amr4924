@@ -49,9 +49,7 @@
 ---
 
 ## 🌐 Let's Connect  
-
-## 🌐 Let's Connect  
-
+  
 <p align="center">
   <a href="https://www.linkedin.com/in/amr-sa3dwy-53a51a343" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
@@ -62,9 +60,9 @@
   <a href="https://github.com/Amr4924" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
   </a>
-  <a href="https://codeforces.com/profile/Sa3dwy" target="_blank">
-    <img src="./fff04e72-a5f9-4325-98dc-075d37c0df3c.png" height="40" alt="Codeforces"/>
-  </a>
+ <a href="https://codeforces.com/profile/Sa3dwy" target="_blank">
+  <img src="https://sta.codeforces.com/s/85749/images/codeforces-logo-with-telegram.png" height="40" alt="Codeforces"/>
+</a>
 </p>
 
 
