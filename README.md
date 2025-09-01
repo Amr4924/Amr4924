@@ -49,21 +49,22 @@
 ---
 
 ## 🌐 Let's Connect  
-  
+
 <p align="center">
   <a href="https://www.linkedin.com/in/amr-sa3dwy-53a51a343" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" hspace="15"/>
   </a>
   <a href="mailto:amrsaad0016a@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" hspace="15"/>
   </a>
   <a href="https://github.com/Amr4924" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" hspace="15"/>
   </a>
- <a href="https://codeforces.com/profile/Sa3dwy" target="_blank">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3521352-2944796.png" height="40" alt="Codeforces"/>
-</a>
+  <a href="https://codeforces.com/profile/Sa3dwy" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3521352-2944796.png" height="40" alt="Codeforces" hspace="15"/>
+  </a>
 </p>
+
 
 
 ---
