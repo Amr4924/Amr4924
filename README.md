@@ -60,6 +60,9 @@
   <a href="https://github.com/Amr4924" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
   </a>
+  <a href="https://codeforces.com/profile/Sa3dwy" target="_blank">
+    <img src="https://skillicons.dev/icons?i=codeforces" height="40" alt="Codeforces"/>
+  </a>
 </p>
 
 ---
