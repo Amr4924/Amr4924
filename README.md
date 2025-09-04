@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amr4924&theme=tokyonight&hide_border=true" width="90%" />
+  <img src="https://streak-stats.vercel.app?user=Amr4924&theme=tokyonight&hide_border=true" width="90%" />
 </p>
 
 <p align="center">
