@@ -42,7 +42,7 @@
 ## 📈 Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amr4924&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amr4924&theme=tokyonight" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr4924&layout=compact&theme=tokyonight&langs_count=8&hide=html,css,scss&hide_border=true" width="45%" />
 </p>
 
