@@ -16,21 +16,21 @@
 
 💻 Passionate about C++ development (current main focus 🚀), while also exploring Python and Dart to broaden my skillset.
 
-🏅 Earned a Python Basics Certificate from the Information Technology Institute (ITI) via Mahara-Tech. 📄 View Certificate
+🏅 Earned a Python Basics Certificate from the Information Technology Institute (ITI) via Mahara-Tech. [**📄 View Certificate**](https://github.com/Amr4924/My-Certifications/blob/main/Course_Certificate_En.pdf)
 
 🚀 Currently working on projects such as:
 
-TermTracker GPA System
+[**TermTracker GPA System**](https://github.com/Amr4924/TermTracker)
 
-Age Calculator
+[**Age Calculator**](https://github.com/Amr4924/age-calculator)
 
-Simple C++ Operations
+[**Simple C++ Operations**](https://github.com/Amr4924/Simple-Cpp-Operations-Project)
 
-WordWizard
+[**WordWizard**](https://github.com/Amr4924/WordWizard)
 
-SmartATM
+[**SmartATM**](https://github.com/Amr4924/SmartATM)
 
-GenFinder
+[**GenFinder**](https://github.com/Amr4924/GenFinder)
 
 📊 Developing a parallel interest in Product Management to connect technical skills with real-world solutions.
 
