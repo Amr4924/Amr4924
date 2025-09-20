@@ -43,7 +43,7 @@
 
 <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Amr4924&show_icons=true&rank_icon=percentile&theme=rose_pine&bg_color=0D1117&hide_border=true&count_private=true&cache_seconds=3600" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?usernameAmr4924&layout=compact&theme=rose_pine&bg_color=0D1117&hide_border=true&langs_count=6" height="165"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr4924&layout=compact&theme=rose_pine&bg_color=0D1117&hide_border=true&langs_count=6" height="165"/> 
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Amr4924&bg_color=0D1117&color=9CCFD8&line=9CCFD8&point=C9D1D9&area=true&hide_border=true" /> 
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=Amr4924&theme=rose_pine&hide_border=true&background=0D1117&ring=9CCFD8&fire=EBBCBA&currStreakNum=FFFFFF&currStreakLabel=9CCFD8" height="165" />
 
