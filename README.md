@@ -47,6 +47,16 @@
 
 ---
 
+## 🧩 Problem Solving & Challenges
+
+<p align="center">
+  <a href="https://www.codewars.com/users/Sa3dwy" target="_blank">
+    <img src="https://www.codewars.com/users/Sa3dwy/badges/large" alt="Codewars Badge" />
+  </a>
+</p>
+
+---
+
 ## 🏆 GitHub Trophies  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Amr4924&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
@@ -72,6 +82,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
+
+
 
 ---
 
