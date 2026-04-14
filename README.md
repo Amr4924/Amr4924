@@ -91,9 +91,7 @@ public:
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Amr4924&show_icons=true&rank_icon=percentile&theme=rose_pine&bg_color=0D1117&hide_border=true&count_private=true&cache_seconds=3600" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr4924&layout=compact&theme=rose_pine&bg_color=0D1117&hide_border=true&langs_count=8" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amr4924&theme=2077" height="170" />
 
 <img src="https://streak-stats.demolab.com?user=Amr4924&theme=rose_pine&hide_border=true&background=0D1117&ring=9CCFD8&fire=EBBCBA&currStreakNum=FFFFFF&currStreakLabel=9CCFD8" height="170" />
 
@@ -107,7 +105,7 @@ public:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Amr4924&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-trophies.vercel.app/?username=Amr4924&theme=onedark&no-bg=true&no-frame=true)
 
 </div>
 
