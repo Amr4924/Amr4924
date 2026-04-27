@@ -66,6 +66,10 @@ public:
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
+### Core Concepts
+![OOP](https://img.shields.io/badge/OOP-4010B0?style=for-the-badge&logo=java&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)
+
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
