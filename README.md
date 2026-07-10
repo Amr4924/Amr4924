@@ -101,6 +101,7 @@ public:
 | [🛒 Sprint Store](https://github.com/Amr4924/Sprint-Store-) | Flutter e-commerce UI inspired by Vodafone Cash — grid layouts, custom widgets & layout composition | Flutter / Dart |
 | [💬 WhatsApp-Inspired Chat UI](https://github.com/Amr4924/Clone-WhatsApp-UI) | Flutter chat UI — dark theme, chat list, drawer, filter chips & bottom nav (UI only) | Flutter / Dart |
 | [📚 Tech-School](https://github.com/Amr4924/Tech-School) | Responsive E-learning mobile app UI | Flutter / Dart |
+| [M-Jewellery](https://github.com/Amr4924/M-Jewellery) | 
 
 </div>
 
