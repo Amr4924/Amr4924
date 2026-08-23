@@ -23,7 +23,7 @@ class Amr extends CppFoundation implements FlutterDeveloper, AIExplorer {
   @override
   final String name = 'Amr Sa3dwy';
 
-  final String university = 'South Valley National University, Aswan';
+  final String university = 'South Valley National University';
   final String track = 'Computer Science & Artificial Intelligence';
   final String graduating = 'Expected June 2028';
 
