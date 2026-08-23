@@ -41,7 +41,7 @@ class Amr extends CppFoundation implements FlutterDeveloper, AIExplorer {
 }
 ```
 
-- 🎓 **CS & AI Student** at South Valley National University, Aswan — graduating June 2028
+- 🎓 **CS & AI Student** at South Valley National University — graduating June 2028
 - 📱 **Main Focus:** Flutter & Dart — shipping real, navigable mobile UIs one project at a time
 - 🧩 **Leveling Up:** growing from `setState` into `Provider` and `BLoC/Cubit` for state management on newer builds
 - 🧠 **Exploring:** how AI fits into mobile apps — the long-game of my CS & AI track
