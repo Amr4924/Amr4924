@@ -148,11 +148,9 @@ class Amr extends CppFoundation implements FlutterDeveloper, AIExplorer {
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Amr4924&layout=compact&hide_border=true&bg_color=0D1117&title_color=9C27B0&text_color=C9D1D9&langs_count=8" height="165" />
 </p>
 
-<p align="center">
+<p align="center" style="margin-top:25px;">
   <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=Amr4924&theme=rose_pine&hide_border=true&background=0D1117&ring=9CCFD8&fire=EBBCBA&currStreakLabel=9CCFD8" height="175" />
 </p>
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Amr4924&bg_color=0D1117&color=9CCFD8&line=9CCFD8&point=C9D1D9&area=true&hide_border=true" />
-
 </div>
 
 ---
