@@ -16,7 +16,7 @@
 
 ---
 
-## 🧑‍💻 About Me. 
+## 🧑‍💻 About Me
 
 ```dart
 class Amr extends CppFoundation implements FlutterDeveloper, AIExplorer {
