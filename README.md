@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center">;
 
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2D1B4E,100:4010B0&height=200&section=header&text=Amr%20Sa3dwy&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%7C%20CS%20and%20AI%20Student&descAlignY=58&descSize=18&animation=fadeIn" />
