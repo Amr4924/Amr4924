@@ -154,7 +154,7 @@ class Amr extends CppFoundation implements FlutterDeveloper, AIExplorer {
 </p>
 </div>
 
-<img src="./assets/dashboard.svg" alt="Amr4924 GitHub dashboard: contributions, stars, repositories, languages and streak" width="100%" />
+<img src="./dashboard.svg" alt="Amr4924 GitHub dashboard: contributions, stars, repositories, languages and streak" width="100%" />
 
 </div>
 
