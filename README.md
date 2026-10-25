@@ -142,6 +142,7 @@ class Amr extends CppFoundation implements FlutterDeveloper, AIExplorer {
 ## 📊 GitHub Statistics
 
 <div align="center">
+<div align="center">
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Amr4924&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9C27B0&icon_color=9CCFD8&text_color=C9D1D9" height="165" />
@@ -151,6 +152,10 @@ class Amr extends CppFoundation implements FlutterDeveloper, AIExplorer {
 <p align="center" style="margin-top:25px;">
   <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=Amr4924&theme=rose_pine&hide_border=true&background=0D1117&ring=9CCFD8&fire=EBBCBA&currStreakLabel=9CCFD8" height="175" />
 </p>
+</div>
+
+<img src="C:\Users\ropen\Downloads\Git\repo protofile\Amr4924\dashboard.svg" alt="Amr4924 GitHub dashboard: contributions, stars, repositories, languages and streak" width="100%" />
+
 </div>
 
 ---
