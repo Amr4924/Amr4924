@@ -82,7 +82,7 @@
 <g class="h" style="animation-delay:1.08s"><rect x="769" y="264" width="12" height="12" rx="3" fill="#161B22"/><rect x="769" y="279" width="12" height="12" rx="3" fill="#161B22"/><rect x="769" y="294" width="12" height="12" rx="3" fill="#161B22"/><rect x="769" y="309" width="12" height="12" rx="3" fill="#161B22"/><rect x="769" y="324" width="12" height="12" rx="3" fill="#161B22"/><rect x="769" y="339" width="12" height="12" rx="3" fill="#D17FE6"/><rect x="769" y="354" width="12" height="12" rx="3" fill="#161B22"/></g>
 <g class="h" style="animation-delay:1.10s"><rect x="784" y="264" width="12" height="12" rx="3" fill="#161B22"/><rect x="784" y="279" width="12" height="12" rx="3" fill="#161B22"/><rect x="784" y="294" width="12" height="12" rx="3" fill="#161B22"/><rect x="784" y="309" width="12" height="12" rx="3" fill="#161B22"/><rect x="784" y="324" width="12" height="12" rx="3" fill="#161B22"/><rect x="784" y="339" width="12" height="12" rx="3" fill="#161B22"/><rect x="784" y="354" width="12" height="12" rx="3" fill="#45204F"/></g>
 <g class="h" style="animation-delay:1.12s"><rect x="799" y="264" width="12" height="12" rx="3" fill="#D17FE6"/><rect x="799" y="279" width="12" height="12" rx="3" fill="#6E2A86"/><rect x="799" y="294" width="12" height="12" rx="3" fill="#45204F"/><rect x="799" y="309" width="12" height="12" rx="3" fill="#6E2A86"/><rect x="799" y="324" width="12" height="12" rx="3" fill="#D17FE6"/><rect x="799" y="339" width="12" height="12" rx="3" fill="#6E2A86"/><rect x="799" y="354" width="12" height="12" rx="3" fill="#161B22"/></g>
-<g class="h" style="animation-delay:1.14s"><rect x="814" y="264" width="12" height="12" rx="3" fill="#D17FE6"/><rect x="814" y="279" width="12" height="12" rx="3" fill="#D17FE6"/><rect x="814" y="294" width="12" height="12" rx="3" fill="#161B22"/></g>
+<g class="h" style="animation-delay:1.14s"><rect x="814" y="264" width="12" height="12" rx="3" fill="#D17FE6"/><rect x="814" y="279" width="12" height="12" rx="3" fill="#D17FE6"/><rect x="814" y="294" width="12" height="12" rx="3" fill="#161B22"/><rect x="814" y="309" width="12" height="12" rx="3" fill="#161B22"/></g>
 <text x="826" y="397" font-size="11" font-weight="400" fill="#8B949E" text-anchor="end">More</text>
 <rect x="720" y="386" width="12" height="12" rx="3" fill="#161B22"/>
 <rect x="735" y="386" width="12" height="12" rx="3" fill="#45204F"/>
@@ -111,9 +111,9 @@
 <text x="182" y="508" font-size="13" font-weight="400" fill="#E6EDF3" text-anchor="start">CSS <tspan fill="#8B949E">3%</tspan></text>
 <path d="M452.5 428V518" stroke="#21262D" shape-rendering="crispEdges"/>
 <text x="470" y="440" font-size="15" font-weight="600" fill="#E6EDF3" text-anchor="start">Streak</text>
-<text x="470" y="478" font-size="30" font-weight="800" fill="#EBBCBA" text-anchor="start">2<tspan font-size="12" font-weight="400" fill="#8B949E" dx="5">days</tspan></text>
+<text x="470" y="478" font-size="30" font-weight="800" fill="#EBBCBA" text-anchor="start">0<tspan font-size="12" font-weight="400" fill="#8B949E" dx="5">days</tspan></text>
 <text x="470" y="498" font-size="12" font-weight="400" fill="#8B949E" text-anchor="start">Current streak</text>
-<text x="470" y="515" font-size="11" font-weight="400" fill="#6E7681" text-anchor="start">Oct 25 – Oct 26</text>
+<text x="470" y="515" font-size="11" font-weight="400" fill="#6E7681" text-anchor="start">No active streak</text>
 <text x="592" y="478" font-size="30" font-weight="800" fill="#E6EDF3" text-anchor="start">9<tspan font-size="12" font-weight="400" fill="#8B949E" dx="5">days</tspan></text>
 <text x="592" y="498" font-size="12" font-weight="400" fill="#8B949E" text-anchor="start">Longest streak</text>
 <text x="592" y="515" font-size="11" font-weight="400" fill="#6E7681" text-anchor="start">Aug 22 – Aug 30</text>
