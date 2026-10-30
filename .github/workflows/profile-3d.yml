@@ -1,0 +1,32 @@
+name: 3D contribution calendar
+
+on:
+  schedule:
+    - cron: "0 3 * * *"        # once a day, 03:00 UTC
+  workflow_dispatch:           # lets you run it by hand from the Actions tab
+  push:
+    branches: [main]
+    paths:
+      - ".github/profile-3d-contrib.json"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: .github/profile-3d-contrib.json
+
+      - name: Commit the generated images
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-contrib
+          git diff --staged --quiet || (git commit -m "chore: update 3D contribution calendar" && git push)
